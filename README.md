@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/ZyTkdqG.png" alt="about-aakash"/>
+<img src="https://raw.githubusercontent.com/goelaakash79/goelaakash79.github.io/a6512ecf566feeb09c90943c7db44236712178d1/images/GitHub%20art.svg" alt="about-aakash"/>
 
 <!--
 - 👔 I’m currently working as a freelancer
