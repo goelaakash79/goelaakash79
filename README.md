@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/goelaakash79/goelaakash79.github.io/a6512ecf566feeb09c90943c7db44236712178d1/images/GitHub%20art.svg" alt="about-aakash"/>
+<img src="https://raw.githubusercontent.com/goelaakash79/goelaakash79.github.io/master/images/github.png" alt="about-aakash"/>
 
 <p align="center">
 🚀 visit <a href="https://usefonts.netlify.app">usefonts</a>
